@@ -30,7 +30,7 @@ streamlit run dashboard/dashboard.py
 ```
 
 ### 4. Buka di Browser
-Dashboard otomatis terbuka di browser pada alamat:https://share.streamlit.io/analysisdataproject.streamlit.app
+Dashboard otomatis terbuka di browser pada alamat:https://analysisdataproject.streamlit.app
 
 ## Pertanyaan Bisnis yang Dijawab
 1. Faktor apa saja yang berhubungan dengan lonjakan penyewaan sepeda di atas rerata harian sepanjang tahun 2011?
